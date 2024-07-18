@@ -1,5 +1,5 @@
 ## Oi Sou Guilherme,👓🧐
-<img src="https://github.com/user-attachments/assets/048fad32-3d12-472f-b816-f9e9f250d853" alt="imgem grande">
+
 ![GuilhermeNantes stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNantes&show_icons=true&theme=date_night
 )
 
