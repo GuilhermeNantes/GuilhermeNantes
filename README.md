@@ -1,5 +1,6 @@
 ## Oi Sou Guilherme,👓🧐
-
+<img src="https://github.com/user-attachments/assets/048fad32-3d12-472f-b816-f9e9f250d853" alt="imgem grande">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!--
 **GuilhermeNantes/GuilhermeNantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
