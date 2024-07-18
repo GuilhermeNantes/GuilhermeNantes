@@ -1,6 +1,17 @@
 ## Oi Sou Guilherme,👓🧐
 <img src="https://github.com/user-attachments/assets/048fad32-3d12-472f-b816-f9e9f250d853" alt="imgem grande">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![GuilhermeNantes stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNantes&show_icons=true&theme=date_night
+)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNantes)](https://github.com/anuraghazra/github-readme-stats)
+
+Tecnologias que estou aprendendo
+<div style="display: inline_block"><br/>
+  <img align="center"alt= "python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center"alt= "html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center"alt= "css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
+
 <!--
 **GuilhermeNantes/GuilhermeNantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
