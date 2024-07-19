@@ -1,6 +1,6 @@
 ## Guilherme Nantes
 ![GuilhermeNantes stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNantes&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNantes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNantes&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 Linguagens que estou aprendendo
 <div style="display: inline_block"><br/>
