@@ -1,13 +1,12 @@
-
-staus
+## Guilherme Nantes
 ![GuilhermeNantes stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNantes&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNantes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Tecnologias que estou aprendendo
+Linguagens que estou aprendendo
 <div style="display: inline_block"><br/>
-  <img align="center"alt= "python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center"alt= "html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center"alt= "css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center"alt= "python" src="https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python&logoColor=dark blue" />
+  <img align="center"alt= "html" src="https://img.shields.io/badge/HTML-202020?style=for-the-badge&logo=html5&logoColor=dark-red" />
+  <img align="center"alt= "css" src="https://img.shields.io/badge/CSS-202020?&style=for-the-badge&logo=css3&logoColor=blue" />
 </div><br/>
 
 <!--
