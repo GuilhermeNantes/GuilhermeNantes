@@ -1,7 +1,6 @@
 ## Oi Sou Guilherme,👓🧐
-
-![GuilhermeNantes stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNantes&show_icons=true&theme=date_night
-)
+![<img src="" alt="jpgames">]
+![GuilhermeNantes stats](https://github-readme-stats.vercel.app/api?username=GuilhermeNantes&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNantes)](https://github.com/anuraghazra/github-readme-stats)
 
