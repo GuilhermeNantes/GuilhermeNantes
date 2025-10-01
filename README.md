@@ -55,10 +55,4 @@
 </div>
 
 ---
-
-### 👁️‍🗨️ Visitas no perfil
-<p align="center">
-  <img src="https://profile-counter.glitch.me/GuilhermeNantes/count.svg" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
