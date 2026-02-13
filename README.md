@@ -12,9 +12,9 @@
 
 ### 📊 Meus Status GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNantes&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNantes&layout=compact&theme=radical&hide_border=true"/>
+  <h4>em desenvolvimento 😉😉😉</h4>
 </div>
+
 
 ---
 
