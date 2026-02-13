@@ -45,11 +45,11 @@
 ---
 
 ### 🌐 Redes Sociais
-<div align="center">
+<div align="">
   <a href="https://www.instagram.com/SEU_INSTA" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff0000"/>
   </a>
-  <a href="mailto:guinantes27@gmail.com">
+  <a href="guinantes27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ff0000"/>
   </a>
 </div>
