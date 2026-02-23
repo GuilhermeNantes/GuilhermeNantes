@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO VERMELHO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
-
+ 
 <h1 align="center">👋 Olá, eu sou o Guilherme Nantes Bergamo</h1>
 <h3 align="center">🧑‍💻 Desenvolvedor Web | 17 anos | Estudante apaixonado por tecnologia</h3>
 
@@ -55,4 +55,11 @@
 </div>
 
 ---
+### 🎨 O Meu Tema: Dark Carbon
+Criei este tema para quem busca conforto visual e foco total. Ele reduz o cansaço dos olhos e destaca o que realmente importa: a sua lógica.
+
+<h4>🚀 Estética moderna + Produtividade.</h4>
+
+Confira os detalhes e ultilize agora clicando <a href="">aqui.</a>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
