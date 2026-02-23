@@ -60,6 +60,6 @@ Criei este tema para quem busca conforto visual e foco total. Ele reduz o cansa�
 
 <h4>🚀 Estética moderna + Produtividade.</h4>
 
-Confira os detalhes e ultilize agora clicando <a href="">aqui.</a>
+Confira os detalhes e ultilize agora clicando <a href="https://github.com/GuilhermeNantes/My-VS-Code-Theme">aqui.</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
