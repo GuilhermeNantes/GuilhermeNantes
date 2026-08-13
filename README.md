@@ -1,2 +1,5 @@
-<img width="680" height="480" alt="terminal-readme (1)" src="https://github.com/user-attachments/assets/2bb368d2-e18d-4fa6-abd7-575ff65a4d7f" />
-
+<p align="center">
+  <a href="https://github.com/GuilhermeNantes">
+    <img src="https://github-stats-vercel-seven.vercel.app/api/terminal?username=GuilhermeNantes&cmd=whoami,manifest,gitlog,stats,languages,projects,contact&noanimation=true&theme=github" width="680" alt="GitHub Stats" />
+  </a>
+</p>
